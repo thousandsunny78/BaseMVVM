@@ -1,0 +1,6 @@
+module Pods_BaseMVVM_prod {
+  umbrella header "Pods-BaseMVVM_prod-umbrella.h"
+
+  export *
+  module * { export * }
+}
